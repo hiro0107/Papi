@@ -1,0 +1,24 @@
+{
+  "name": "papi",
+  "version": "0.0.1",
+  "description": "A Simple Rest Tester",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiro0107/Papi.git"
+  },
+  "keywords": [
+    "Rest",
+    "API",
+    "Test"
+  ],
+  "author": "Hiro Ari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hiro0107/Papi/issues"
+  },
+  "homepage": "https://github.com/hiro0107/Papi#readme"
+}
