@@ -1,5 +1,5 @@
 {
-  "name": "papi",
+  "name": "@cat_and_squirre/papi",
   "version": "0.0.1",
   "description": "A Simple Rest Tester",
   "main": "index.js",
